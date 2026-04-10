@@ -30,9 +30,11 @@ GET /api/events/{id}
 POST /api/events
 PUT /api/events/{id}
 DELETE /api/events/{id}
+
 Participantes
 GET /api/participant
 POST /api/participant
+
 Inscrições
 POST /api/enrollment
 PUT /api/enrollment/{id}
