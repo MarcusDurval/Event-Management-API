@@ -22,3 +22,17 @@ Controllers → Responsáveis pelas requisições HTTP
 Services → Contêm as regras de negócio
 Repositories → Responsáveis pelo acesso aos dados
 DTOs → Transferência de dados entre camadas
+
+📌 Endpoints principais
+Eventos
+GET /api/events
+GET /api/events/{id}
+POST /api/events
+PUT /api/events/{id}
+DELETE /api/events/{id}
+Participantes
+GET /api/participant
+POST /api/participant
+Inscrições
+POST /api/enrollment
+PUT /api/enrollment/{id}
