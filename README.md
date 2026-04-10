@@ -24,6 +24,7 @@ Repositories → Responsáveis pelo acesso aos dados
 DTOs → Transferência de dados entre camadas
 
 📌 Endpoints principais
+
 Eventos
 GET /api/events
 GET /api/events/{id}
