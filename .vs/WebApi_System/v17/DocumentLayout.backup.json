@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Curso completo de C#\\WebApi_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0E3D6E-4CA7-4B8C-9996-4F073A6D99CC}|WebApi_System\\WebApi_System.csproj|d:\\curso completo de c#\\webapi_system\\webapi_system\\controllers\\participantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0E3D6E-4CA7-4B8C-9996-4F073A6D99CC}|WebApi_System\\WebApi_System.csproj|solutionrelative:webapi_system\\controllers\\participantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0E3D6E-4CA7-4B8C-9996-4F073A6D99CC}|WebApi_System\\WebApi_System.csproj|d:\\curso completo de c#\\webapi_system\\webapi_system\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0E3D6E-4CA7-4B8C-9996-4F073A6D99CC}|WebApi_System\\WebApi_System.csproj|solutionrelative:webapi_system\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0E3D6E-4CA7-4B8C-9996-4F073A6D99CC}|WebApi_System\\WebApi_System.csproj|d:\\curso completo de c#\\webapi_system\\webapi_system\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0E3D6E-4CA7-4B8C-9996-4F073A6D99CC}|WebApi_System\\WebApi_System.csproj|solutionrelative:webapi_system\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0E3D6E-4CA7-4B8C-9996-4F073A6D99CC}|WebApi_System\\WebApi_System.csproj|d:\\curso completo de c#\\webapi_system\\webapi_system\\enrollmentrepository\\enrollmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0E3D6E-4CA7-4B8C-9996-4F073A6D99CC}|WebApi_System\\WebApi_System.csproj|solutionrelative:webapi_system\\enrollmentrepository\\enrollmentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0E3D6E-4CA7-4B8C-9996-4F073A6D99CC}|WebApi_System\\WebApi_System.csproj|d:\\curso completo de c#\\webapi_system\\webapi_system\\enrollmentservice\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0E3D6E-4CA7-4B8C-9996-4F073A6D99CC}|WebApi_System\\WebApi_System.csproj|solutionrelative:webapi_system\\enrollmentservice\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0E3D6E-4CA7-4B8C-9996-4F073A6D99CC}|WebApi_System\\WebApi_System.csproj|d:\\curso completo de c#\\webapi_system\\webapi_system\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0E3D6E-4CA7-4B8C-9996-4F073A6D99CC}|WebApi_System\\WebApi_System.csproj|solutionrelative:webapi_system\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0E3D6E-4CA7-4B8C-9996-4F073A6D99CC}|WebApi_System\\WebApi_System.csproj|d:\\curso completo de c#\\webapi_system\\webapi_system\\enrollmentservice\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0E3D6E-4CA7-4B8C-9996-4F073A6D99CC}|WebApi_System\\WebApi_System.csproj|solutionrelative:webapi_system\\enrollmentservice\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0E3D6E-4CA7-4B8C-9996-4F073A6D99CC}|WebApi_System\\WebApi_System.csproj|d:\\curso completo de c#\\webapi_system\\webapi_system\\enrollmentdto\\dtoenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0E3D6E-4CA7-4B8C-9996-4F073A6D99CC}|WebApi_System\\WebApi_System.csproj|solutionrelative:webapi_system\\enrollmentdto\\dtoenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "D:\\Curso completo de C#\\WebApi_System\\WebApi_System\\Models\\Participant.cs",
+              "RelativeDocumentMoniker": "WebApi_System\\Models\\Participant.cs",
+              "ToolTip": "D:\\Curso completo de C#\\WebApi_System\\WebApi_System\\Models\\Participant.cs",
+              "RelativeToolTip": "WebApi_System\\Models\\Participant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T22:08:34.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParticipantController.cs",
+              "DocumentMoniker": "D:\\Curso completo de C#\\WebApi_System\\WebApi_System\\Controllers\\ParticipantController.cs",
+              "RelativeDocumentMoniker": "WebApi_System\\Controllers\\ParticipantController.cs",
+              "ToolTip": "D:\\Curso completo de C#\\WebApi_System\\WebApi_System\\Controllers\\ParticipantController.cs",
+              "RelativeToolTip": "WebApi_System\\Controllers\\ParticipantController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAUwDYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:16:05.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEnrollmentService.cs",
+              "DocumentMoniker": "D:\\Curso completo de C#\\WebApi_System\\WebApi_System\\EnrollmentService\\IEnrollmentService.cs",
+              "RelativeDocumentMoniker": "WebApi_System\\EnrollmentService\\IEnrollmentService.cs",
+              "ToolTip": "D:\\Curso completo de C#\\WebApi_System\\WebApi_System\\EnrollmentService\\IEnrollmentService.cs",
+              "RelativeToolTip": "WebApi_System\\EnrollmentService\\IEnrollmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T03:57:56.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "D:\\Curso completo de C#\\WebApi_System\\WebApi_System\\EnrollmentService\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "WebApi_System\\EnrollmentService\\EnrollmentService.cs",
+              "ToolTip": "D:\\Curso completo de C#\\WebApi_System\\WebApi_System\\EnrollmentService\\EnrollmentService.cs",
+              "RelativeToolTip": "WebApi_System\\EnrollmentService\\EnrollmentService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T03:50:45.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DTOEnrollment.cs",
+              "DocumentMoniker": "D:\\Curso completo de C#\\WebApi_System\\WebApi_System\\EnrollmentDTO\\DTOEnrollment.cs",
+              "RelativeDocumentMoniker": "WebApi_System\\EnrollmentDTO\\DTOEnrollment.cs",
+              "ToolTip": "D:\\Curso completo de C#\\WebApi_System\\WebApi_System\\EnrollmentDTO\\DTOEnrollment.cs",
+              "RelativeToolTip": "WebApi_System\\EnrollmentDTO\\DTOEnrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T03:39:03.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\Curso completo de C#\\WebApi_System\\WebApi_System\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "WebApi_System\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\Curso completo de C#\\WebApi_System\\WebApi_System\\Models\\Enrollment.cs",
+              "RelativeToolTip": "WebApi_System\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T03:36:44.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "D:\\Curso completo de C#\\WebApi_System\\WebApi_System\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "WebApi_System\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "D:\\Curso completo de C#\\WebApi_System\\WebApi_System\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "WebApi_System\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAawDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T03:35:57.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnrollmentsRepository.cs",
+              "DocumentMoniker": "D:\\Curso completo de C#\\WebApi_System\\WebApi_System\\EnrollmentRepository\\EnrollmentsRepository.cs",
+              "RelativeDocumentMoniker": "WebApi_System\\EnrollmentRepository\\EnrollmentsRepository.cs",
+              "ToolTip": "D:\\Curso completo de C#\\WebApi_System\\WebApi_System\\EnrollmentRepository\\EnrollmentsRepository.cs",
+              "RelativeToolTip": "WebApi_System\\EnrollmentRepository\\EnrollmentsRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T21:54:43.767Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
